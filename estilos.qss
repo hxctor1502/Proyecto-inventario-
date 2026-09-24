@@ -1,0 +1,90 @@
+QMainWindow, QWidget {
+    background-color: #161920;
+    color: #E2E8F0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 13px;
+}
+
+QLabel#TituloPrincipal {
+    font-size: 20px;
+    font-weight: bold;
+    color: #F59E0B;
+    padding: 6px;
+}
+
+QFrame#TarjetaFinanciera {
+    background-color: #1E2430;
+    border: 1px solid #334155;
+    border-left: 5px solid #F59E0B;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+QLabel#ValorFinanciero {
+    font-size: 18px;
+    font-weight: bold;
+    color: #38BDF8;
+}
+
+QLabel#ValorGanancia {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4ADE80;
+}
+
+QLineEdit, QComboBox, QSpinBox, QDoubleSpinBox {
+    background-color: #0F131A;
+    border: 1px solid #475569;
+    border-radius: 4px;
+    padding: 6px;
+    color: #F8FAFC;
+}
+
+QLineEdit:focus, QDoubleSpinBox:focus, QSpinBox:focus {
+    border: 1px solid #F59E0B;
+}
+
+QPushButton {
+    background-color: #2563EB;
+    color: #FFFFFF;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 14px;
+}
+
+QPushButton:hover {
+    background-color: #1D4ED8;
+}
+
+QPushButton#BotonVenta {
+    background-color: #16A34A;
+}
+
+QPushButton#BotonVenta:hover {
+    background-color: #15803D;
+}
+
+QPushButton#BotonLlegada {
+    background-color: #D97706;
+}
+
+QPushButton#BotonLlegada:hover {
+    background-color: #B45309;
+}
+
+QTableWidget {
+    background-color: #1E2430;
+    alternate-background-color: #181D27;
+    gridline-color: #334155;
+    border: 1px solid #334155;
+    border-radius: 6px;
+}
+
+QHeaderView::section {
+    background-color: #0F131A;
+    color: #F59E0B;
+    font-weight: bold;
+    padding: 8px;
+    border: 1px solid #334155;
+}

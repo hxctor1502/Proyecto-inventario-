@@ -1,0 +1,70 @@
+{
+    "ultima_actualizacion": "24/09/2026 19:16:39",
+    "repuestos": {
+        "MOT-4501": {
+            "codigo": "MOT-4501",
+            "nombre": "Motor Cummins ISX 15L",
+            "categoria": "Motores",
+            "costo_inversion": 8500.0,
+            "precio_venta": 11800.0,
+            "stock_actual": 3,
+            "vendidos": 2,
+            "por_llegar": 1,
+            "historial_ventas": [
+                {
+                    "fecha": "24/09/2026 19:16:39",
+                    "cantidad": 2,
+                    "ingreso_operacion": 23600.0,
+                    "ganancia_operacion": 6600.0
+                }
+            ]
+        },
+        "CAB-2094": {
+            "codigo": "CAB-2094",
+            "nombre": "Cabina Completa Kenworth T800",
+            "categoria": "Cabinas de Camión",
+            "costo_inversion": 5200.0,
+            "precio_venta": 7600.0,
+            "stock_actual": 2,
+            "vendidos": 1,
+            "por_llegar": 2,
+            "historial_ventas": [
+                {
+                    "fecha": "24/09/2026 19:16:39",
+                    "cantidad": 1,
+                    "ingreso_operacion": 7600.0,
+                    "ganancia_operacion": 2400.0
+                }
+            ]
+        },
+        "ECU-8812": {
+            "codigo": "ECU-8812",
+            "nombre": "Computadora ECM Detroit Diesel DDEC IV",
+            "categoria": "Computadoras Electrónicas",
+            "costo_inversion": 950.0,
+            "precio_venta": 1550.0,
+            "stock_actual": 6,
+            "vendidos": 4,
+            "por_llegar": 3,
+            "historial_ventas": [
+                {
+                    "fecha": "24/09/2026 19:16:39",
+                    "cantidad": 4,
+                    "ingreso_operacion": 6200.0,
+                    "ganancia_operacion": 2400.0
+                }
+            ]
+        },
+        "TRA-3319": {
+            "codigo": "TRA-3319",
+            "nombre": "Caja Eaton Fuller 18 Velocidades",
+            "categoria": "Transmisión Pesada",
+            "costo_inversion": 3100.0,
+            "precio_venta": 4650.0,
+            "stock_actual": 4,
+            "vendidos": 0,
+            "por_llegar": 2,
+            "historial_ventas": []
+        }
+    }
+}
