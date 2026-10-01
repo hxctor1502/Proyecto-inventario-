@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "24/09/2026 19:16:39",
+    "ultima_actualizacion": "01/10/2026 19:30:42",
     "repuestos": {
         "MOT-4501": {
             "codigo": "MOT-4501",
@@ -7,8 +7,8 @@
             "categoria": "Motores",
             "costo_inversion": 8500.0,
             "precio_venta": 11800.0,
-            "stock_actual": 3,
-            "vendidos": 2,
+            "stock_actual": 1,
+            "vendidos": 4,
             "por_llegar": 1,
             "historial_ventas": [
                 {
@@ -16,6 +16,18 @@
                     "cantidad": 2,
                     "ingreso_operacion": 23600.0,
                     "ganancia_operacion": 6600.0
+                },
+                {
+                    "fecha": "01/10/2026 19:14:51",
+                    "cantidad": 1,
+                    "ingreso_operacion": 11800.0,
+                    "ganancia_operacion": 3300.0
+                },
+                {
+                    "fecha": "01/10/2026 19:18:32",
+                    "cantidad": 1,
+                    "ingreso_operacion": 11800.0,
+                    "ganancia_operacion": 3300.0
                 }
             ]
         },
@@ -25,12 +37,36 @@
             "categoria": "Cabinas de Camión",
             "costo_inversion": 5200.0,
             "precio_venta": 7600.0,
-            "stock_actual": 2,
-            "vendidos": 1,
+            "stock_actual": 30,
+            "vendidos": 7,
             "por_llegar": 2,
             "historial_ventas": [
                 {
                     "fecha": "24/09/2026 19:16:39",
+                    "cantidad": 1,
+                    "ingreso_operacion": 7600.0,
+                    "ganancia_operacion": 2400.0
+                },
+                {
+                    "fecha": "01/10/2026 19:14:51",
+                    "cantidad": 1,
+                    "ingreso_operacion": 7600.0,
+                    "ganancia_operacion": 2400.0
+                },
+                {
+                    "fecha": "01/10/2026 19:18:49",
+                    "cantidad": 1,
+                    "ingreso_operacion": 7600.0,
+                    "ganancia_operacion": 2400.0
+                },
+                {
+                    "fecha": "01/10/2026 19:25:01",
+                    "cantidad": 3,
+                    "ingreso_operacion": 22800.0,
+                    "ganancia_operacion": 7200.0
+                },
+                {
+                    "fecha": "01/10/2026 19:30:42",
                     "cantidad": 1,
                     "ingreso_operacion": 7600.0,
                     "ganancia_operacion": 2400.0
@@ -43,8 +79,8 @@
             "categoria": "Computadoras Electrónicas",
             "costo_inversion": 950.0,
             "precio_venta": 1550.0,
-            "stock_actual": 6,
-            "vendidos": 4,
+            "stock_actual": 13,
+            "vendidos": 10,
             "por_llegar": 3,
             "historial_ventas": [
                 {
@@ -52,6 +88,42 @@
                     "cantidad": 4,
                     "ingreso_operacion": 6200.0,
                     "ganancia_operacion": 2400.0
+                },
+                {
+                    "fecha": "01/10/2026 19:02:01",
+                    "cantidad": 1,
+                    "ingreso_operacion": 1550.0,
+                    "ganancia_operacion": 600.0
+                },
+                {
+                    "fecha": "01/10/2026 19:14:51",
+                    "cantidad": 1,
+                    "ingreso_operacion": 1550.0,
+                    "ganancia_operacion": 600.0
+                },
+                {
+                    "fecha": "01/10/2026 19:18:32",
+                    "cantidad": 1,
+                    "ingreso_operacion": 1550.0,
+                    "ganancia_operacion": 600.0
+                },
+                {
+                    "fecha": "01/10/2026 19:18:49",
+                    "cantidad": 1,
+                    "ingreso_operacion": 1550.0,
+                    "ganancia_operacion": 600.0
+                },
+                {
+                    "fecha": "01/10/2026 19:29:08",
+                    "cantidad": 1,
+                    "ingreso_operacion": 1550.0,
+                    "ganancia_operacion": 600.0
+                },
+                {
+                    "fecha": "01/10/2026 19:30:42",
+                    "cantidad": 1,
+                    "ingreso_operacion": 1550.0,
+                    "ganancia_operacion": 600.0
                 }
             ]
         },
@@ -61,10 +133,59 @@
             "categoria": "Transmisión Pesada",
             "costo_inversion": 3100.0,
             "precio_venta": 4650.0,
-            "stock_actual": 4,
-            "vendidos": 0,
-            "por_llegar": 2,
-            "historial_ventas": []
+            "stock_actual": 9,
+            "vendidos": 12,
+            "por_llegar": 0,
+            "historial_ventas": [
+                {
+                    "fecha": "01/10/2026 19:01:26",
+                    "cantidad": 2,
+                    "ingreso_operacion": 9300.0,
+                    "ganancia_operacion": 3100.0
+                },
+                {
+                    "fecha": "01/10/2026 19:01:33",
+                    "cantidad": 2,
+                    "ingreso_operacion": 9300.0,
+                    "ganancia_operacion": 3100.0
+                },
+                {
+                    "fecha": "01/10/2026 19:01:55",
+                    "cantidad": 2,
+                    "ingreso_operacion": 9300.0,
+                    "ganancia_operacion": 3100.0
+                },
+                {
+                    "fecha": "01/10/2026 19:18:32",
+                    "cantidad": 1,
+                    "ingreso_operacion": 4650.0,
+                    "ganancia_operacion": 1550.0
+                },
+                {
+                    "fecha": "01/10/2026 19:18:49",
+                    "cantidad": 1,
+                    "ingreso_operacion": 4650.0,
+                    "ganancia_operacion": 1550.0
+                },
+                {
+                    "fecha": "01/10/2026 19:25:16",
+                    "cantidad": 2,
+                    "ingreso_operacion": 9300.0,
+                    "ganancia_operacion": 3100.0
+                },
+                {
+                    "fecha": "01/10/2026 19:25:53",
+                    "cantidad": 1,
+                    "ingreso_operacion": 4650.0,
+                    "ganancia_operacion": 1550.0
+                },
+                {
+                    "fecha": "01/10/2026 19:29:08",
+                    "cantidad": 1,
+                    "ingreso_operacion": 4650.0,
+                    "ganancia_operacion": 1550.0
+                }
+            ]
         }
     }
 }
